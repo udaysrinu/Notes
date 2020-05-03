@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="Ek aur Shayari" android:id="@+id/AddNote"></item>
+    <item android:title="Sab Tarmeem karna" android:id="@+id/DeleteAll"></item>
+</menu>
